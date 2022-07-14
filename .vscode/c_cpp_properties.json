@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "d:\\environment\\c++\bin\\../lib/gcc/mingw32/9.2.0/include/c++",
+                "d:\\environment\\c++\bin\\../lib/gcc/mingw32/9.2.0/include/c++/mingw32",
+                "d:\\environment\\c++\bin\\../lib/gcc/mingw32/9.2.0/include/c++/backward",
+                "d:\\environment\\c++\bin\\../lib/gcc/mingw32/9.2.0/include",
+                "d:\\environment\\c++\bin\\../lib/gcc/mingw32/9.2.0/../../../../include",
+                "d:\\environment\\c++\bin\\../lib/gcc/mingw32/9.2.0/include-fixed"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            //此处是编译器路径，以后可直接在此修改
+            "compilerPath": "D:/Environment/c++/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
